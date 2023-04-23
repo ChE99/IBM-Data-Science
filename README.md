@@ -1,1 +1,1 @@
-# Completed projects in the IBM Data Science professioal certificate program.
+# Completed projects in the IBM Data Science professional certificate program.
